@@ -23,7 +23,7 @@ public class Vehicle {
     }
 
     //Getters
-    public int getVin() {
+    public String getVin() {
         return vin;
     }
     public int getYear() {
